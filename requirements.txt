@@ -5,5 +5,3 @@ streamlit
 numpy 
 datetime
 mysql.connector
-collections
-collections.namedtuple
