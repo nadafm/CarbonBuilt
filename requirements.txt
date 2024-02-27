@@ -3,7 +3,6 @@
 # platform: win-64
 streamlit
 numpy 
-matplotlib.pylab
 datetime
 mysql.connector
 collections
