@@ -1,6 +1,5 @@
 import streamlit as st
 import numpy as np
-import matplotlib.pylab as plt
 import datetime
 import mysql.connector
 import collections
